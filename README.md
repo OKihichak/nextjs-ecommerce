@@ -1,6 +1,10 @@
 # 🛍️ NextCommerce E-commerce Platform
-![Product Page Screenshot](https://github.com/user-attachments/assets/example-product-page.png)
-![Comments Section Screenshot](https://github.com/user-attachments/assets/example-comments-section.png)
+
+
+https://github.com/user-attachments/assets/a92b0104-a471-4f70-84a4-ba1a4d6972c9
+![sanity](https://github.com/user-attachments/assets/01dc728b-2ddd-4759-b300-15534446829b)
+
+
 
 📝 **Contents**
 - [Introduction](#-introduction)

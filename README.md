@@ -70,9 +70,7 @@ https://github.com/user-attachments/assets/a92b0104-a471-4f70-84a4-ba1a4d6972c9
 
 ## 🚀 Upcoming Features
 - **User Authentication**: Enabling user login and personalized experiences.
-- **Payment Integration**: Secure payment options through Stripe or PayPal.
 - **Enhanced Comments**: Features like likes and replies for user comments.
-- **Wishlist Functionality**: Allow users to save items for later.
 
 ## 🤝 Contribution Guidelines
 Interested in contributing? Here's how:
